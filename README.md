@@ -17,6 +17,7 @@ The **Hospitality Dashboard** was created to:
 - **Microsoft Excel**: For data cleaning, preprocessing, and initial analysis
 - **Power BI**: For creating dynamic, interactive dashboards and visualizations
 - **Power Query**:  Data transformation and automation
+- **Dax**: For calculated measures and KPIs.
 
 ## 🎯 Key Insights
 
